@@ -1,0 +1,4 @@
+Scenario :Get Amazon website search Mobile 
+Feature	:Set prize rate to Select Mobile
+Given Select Mobile Details get Mobile Details
+   
